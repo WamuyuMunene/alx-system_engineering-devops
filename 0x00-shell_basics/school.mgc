@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'o string SCHOOL school data file' > school.mgc 
+o string SCHOOL school !:mime school
