@@ -1,2 +1,2 @@
 #!/biy/bash
-chmod 751 + 555 hello
+chmod 751 hello
